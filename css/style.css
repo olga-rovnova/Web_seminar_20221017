@@ -15,3 +15,21 @@ body, html {
     background-color: aliceblue;
     box-shadow: 5px 5px 10px 10px #000;
 }
+
+.footer {
+    margin: 0px 50px -8px 50px;
+    padding: 40px 0px 40px 0px;
+    color: rgb(48, 41, 41);
+    text-align: center;
+    background-color: #f3e5e5;
+    border-top: 0.05rem solid #e5e5e5;
+  }
+
+
+h1{
+font-family: Arial, sans-serif;
+font-size: 26px;
+text-align: left;
+margin: auto;
+}
+  
